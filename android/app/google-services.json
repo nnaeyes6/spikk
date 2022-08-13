@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830582252617",
+    "project_id": "skip-app-9394e",
+    "storage_bucket": "skip-app-9394e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830582252617:android:309a4ad76c864738ea8b98",
+        "android_client_info": {
+          "package_name": "com.example.spik_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830582252617-tnsm464qcd1speg3jfijaqqe6i7kfr1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spik_app",
+            "certificate_hash": "4916804cc5e26d6e726f6d1f557bceeeec9d22bc"
+          }
+        },
+        {
+          "client_id": "830582252617-6ees1b96ap3ru3d9aer46aathar7ks4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7bIJW-iw_N6QGfaQ5kdAcp9BPuMILNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830582252617-6ees1b96ap3ru3d9aer46aathar7ks4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
